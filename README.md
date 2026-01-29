@@ -345,14 +345,14 @@ For bug reports, please [open an issue](https://github.com/sarahsair25/Student-P
 
 ## 💬 Contact
 
-**Project Maintainer:** [Your Name]
+**Project Maintainer:** Sarah Sair
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: sarahsair@gmail.com
+- 
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/sarahsair)
 
-**Project Link:** [https://github.com/yourusername/student-performance-prediction](https://github.com/yourusername/student-performance-prediction)
+
+**Project Link:** [https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem](https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem)
 
 ---
 
