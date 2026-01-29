@@ -349,10 +349,8 @@ For bug reports, please [open an issue](https://github.com/sarahsair25/Student-P
 
 - 📧 Email: sarahsair@gmail.com
 - 
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/sarahsair)
-
-
-**Project Link:** [https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem](https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem)
+- 💼 LinkedIn:      https://www.linkedin.com/in/sarahsair/
+- Project Link:** [https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem](https://github.com/sarahsair25/Student-Performance-Prediction-Sysytem)
 
 ---
 
