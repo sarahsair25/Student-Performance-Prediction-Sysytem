@@ -49,18 +49,21 @@ Built with **Streamlit** for an intuitive user interface and **scikit-learn** fo
 ## 🎬 Demo
 
 ### Dashboard Preview
-<img width="960" height="419" alt="screen1" src="https://github.com/user-attachments/assets/05f06a62-576d-4aad-b794-7d7ab6f32ab2" />
+<img width="960" height="460" alt="DAshboard" src="https://github.com/user-attachments/assets/ead33cbd-c1a1-48eb-a67f-9fba1c457925" />
 
 
 ### Prediction Interface
-<img width="960" height="460" alt="2" src="https://github.com/user-attachments/assets/fccbdb10-74d8-4564-87be-7dc826d526db" />
-
-
+![Prediction](https://github.com/user-attachments/assets/8bfb715f-dbd6-4218-af51-a5709704485a)
 
 ### Analytics Dashboard
-> _Add screenshot of analytics page here_
 
-**Live Demo:** [Coming Soon]
+![Analytics](https://github.com/user-attachments/assets/afcdfe61-1ad3-4d6d-bae8-80c3d5dbfbbe)
+
+
+
+
+
+ _**Live Demo:** [Coming Soon. In part 2 of this project]
 
 ---
 
@@ -123,41 +126,6 @@ Data Input → Preprocessing → Feature Engineering → Model Training → Eval
 - pip package manager
 - Virtual environment (recommended)
 
-### Quick Start
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/student-performance-prediction.git
-cd student-performance-prediction
-```
-
-2. **Create virtual environment** (optional but recommended)
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the application**
-```bash
-streamlit run student_performance_app.py
-```
-
-5. **Open your browser**
-```
-The app will automatically open at http://localhost:8501
-```
-
----
 
 ## 🚀 Usage
 
@@ -258,32 +226,7 @@ Top 5 most influential features:
 
 ---
 
-## 📂 Project Structure
 
-```
-student-performance-prediction/
-│
-├── student_performance_app.py    # Main Streamlit application
-├── requirements.txt               # Python dependencies
-├── README.md                      # This file
-│
-├── data/                          # (Optional) Data directory
-│   └── sample_data.csv           # Sample dataset
-│
-├── models/                        # (Optional) Saved models
-│   └── trained_model.pkl         # Pickled model
-│
-├── docs/                          # (Optional) Documentation
-│   ├── user_guide.md
-│   └── api_reference.md
-│
-└── tests/                         # (Optional) Unit tests
-    └── test_app.py
-```
-
----
-
-## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -318,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 [Sarah Sair]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -381,7 +324,7 @@ furnished to do so, subject to the following conditions...
 - Internet Explorer is not supported (use Chrome, Firefox, or Edge)
 - Some visualizations may not render properly on mobile devices
 
-For bug reports, please [open an issue](https://github.com/yourusername/student-performance-prediction/issues).
+For bug reports, please [open an issue](https://github.com/sarahsair25/Student-Performance-Prediction-System/issues).
 
 ---
 
@@ -423,11 +366,6 @@ For bug reports, please [open an issue](https://github.com/yourusername/student-
 
 ---
 
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/student-performance-prediction&type=Date)](https://star-history.com/#yourusername/student-performance-prediction&Date)
 
 ---
 
